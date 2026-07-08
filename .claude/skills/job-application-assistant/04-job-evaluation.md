@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Client services / customer success leadership, support & service delivery operations, escalation management, KPI/SLA governance, vendor & BPO management, operating-model design, process improvement, people leadership & coaching, cross-functional leadership, commercial/sales programme leadership, revenue growth, AI-enabled process automation
+**Moderate match areas:** Salesforce & CRM/ticketing platforms, SQL, Tableau, data analytics, billing/payments operations, fraud/refund-abuse prevention, change management (ADKAR/Agile), programme management
+**Weak match areas:** Hands-on software engineering / coding, deep product management ownership, formal data-science/ML model building
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Regional/global client services & support operations leadership (TikTok), customer success & partner management (Pinterest, Meta), vendor/BPO management, B2B technology / ad-tech operations, multilingual EMEA + LATAM service delivery
+**Moderate:** Commercial/sales leadership & revenue growth, programme/project management, operational transformation & change management, quality assurance / coaching
+**Entry-level:** Individual-contributor engineering, pure product management, standalone data-science roles
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -63,19 +63,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Senior Customer Success leadership (Director/VP/Head of CS) owning retention, adoption and CS teams
+- Service delivery / support operations leadership (Head of Support, Director of Service Delivery)
+- Operations / COO-track leadership (Director/Head of Operations, business operations)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: building and scaling teams, operating-model and workflow redesign, quantifiable KPI/SLA improvement, cross-functional transformation, vendor turnaround, applying AI to operations
+- Tasks that drain: siloed individual-contributor work with no team scope, roles with no measurable outcomes or little autonomy
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Between roles (previous role ended Dec 2025); actively seeking a strong senior leadership fit
+- **Flexibility**: Prefers hybrid in Dublin; open/flexible overall, no hard deal-breakers, occasional travel acceptable
+- **Professional development**: Recently completed Advanced AI diploma (Distinction) and Operations Strategy diploma; keen to lead AI-enabled operational transformation
 
 ### 6. Salary Benchmark (Optional)
 

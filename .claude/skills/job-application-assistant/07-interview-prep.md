@@ -35,6 +35,100 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
+## STAR Candidates (Complete Manually)
+
+<!-- Stubs generated from CV/LinkedIn achievements during /setup. Fill in S/T/A/R details before using in interviews. -->
+
+### Concierge Support launch (service redesign, customer impact)
+**Source:** CV / LinkedIn - TikTok, Head of Client Services
+**What happened:** Launched Concierge Support across EMEA and LATAM, cutting First Response Time by 84% and Time to Resolution by 55%.
+**Why it matters:** Answers questions on process redesign, customer impact, scaling support, measurable results.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### 2.5x productivity transformation (AI-enabled operations)
+**Source:** CV / LinkedIn - TikTok, Regional MPO Lead
+**What happened:** Led transformation of a 40+ engineer org, delivering 2.5x productivity growth via AI-enabled process optimisation.
+**Why it matters:** Answers questions on leading change, AI/automation, cross-functional delivery, operational strategy.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Refund Abuse Prevention framework (cross-functional, risk)
+**Source:** CV / LinkedIn - TikTok, Regional MPO Lead
+**What happened:** Built a Refund Abuse Prevention framework reducing abuse volume 48% with Legal, Fraud and Ad Exchange teams.
+**Why it matters:** Answers questions on cross-functional collaboration, risk/fraud, influencing without authority.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Vendor turnaround / Activation Program (vendor & BPO management)
+**Source:** CV / LinkedIn - TikTok, Regional Vendor Manager Lead
+**What happened:** Managed four BPO partners; Activation Program raised advertiser activation 30% and vendor-led revenue 20%.
+**Why it matters:** Answers questions on vendor management, driving performance through partners, commercial results.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### 200% sales growth (early-career leadership)
+**Source:** CV / LinkedIn - Trabe Gestión
+**What happened:** Led a six-person team to 200% sales growth in 14 months via process improvement and consultative B2B sales.
+**Why it matters:** Answers questions on early leadership, building teams, resilience, commercial drive.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Hybrid Live Chat support (service innovation, customer impact)
+**Source:** CV / LinkedIn - TikTok, Head of Client Services
+**What happened:** Created and launched hybrid Live Chat support for EMEA and Brazil, improving CSAT by 40% and reducing escalation rates by 28%
+**Why it matters:** Answers questions on service innovation, customer satisfaction improvement, technology adoption, cross-regional implementation
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Global business process workflows redesign (process optimization, efficiency)
+**Source:** CV / LinkedIn - TikTok, Head of Client Services
+**What happened:** Redesigned global business process workflows with KPI tracking, ticket categorisation and executive dashboards, accelerating decision-making by 20%
+**Why it matters:** Answers questions on process improvement, operational efficiency, data-driven decision making, KPI governance
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Suspension-appeal escalation rate reduction (risk management, process improvement)
+**Source:** CV / LinkedIn - TikTok, Head of Client Services
+**What happened:** Reduced the suspension-appeal escalation rate by more than 21 percentage points (from 81% to below 60%) after introducing enhanced verification protocols
+**Why it matters:** Answers questions on risk management, fraud prevention, verification systems, process compliance
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Partner retention and engagement improvements (partner management, customer success)
+**Source:** CV / LinkedIn - Pinterest, Partnerships
+**What happened:** Built and optimised customer success programmes for key partners, using audience insights and performance data to achieve partner retention above 85% and improve return on advertising investment. Delivered process improvements that doubled partner engagement and strengthened service delivery.
+**Why it matters:** Answers questions on partner management, customer success programmes, data-driven partner optimization, service delivery improvement
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"

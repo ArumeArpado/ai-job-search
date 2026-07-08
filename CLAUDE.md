@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Gustavo Pernas
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Gustavo Pernas, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,68 +10,70 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Gustavo Pernas
+- **Location:** Dublin, Ireland (EU citizen; hybrid-in-Dublin preferred, open/flexible, occasional travel acceptable)
+- **Languages:** Spanish (Native), English (Fluent), Portuguese (Professional), French (Basic)
+- **Status:** Between roles (most recent role at TikTok ended Dec 2025); open to senior operations / client services / customer success leadership opportunities
+- **LinkedIn headline:** "Operations & Service Delivery Leader | Head of Client Services | Support Operations & Vendor Management | Commercial & Sales Leadership | AI-Enabled Transformation"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **MBA** (2010-2011) - Hult International Business School
+- **Professional Diploma in Advanced Artificial Intelligence** (Distinction) (2026) - UCD Professional Academy
+- **Professional Diploma in Operations Strategy** (2026) - Hult International Business School
+- **Diploma in Change Management, Operations Management and Supervision** (2023) - UCD Professional Academy
+- **BBA in Business Administration** (1996-2001) - University of Santiago de Compostela
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Regional MPO Lead, Solutions Engineering, EMEA** (Sep 2024 - Dec 2025) - **TikTok** (Dublin)
+  - Led transformation of a 40+ Technical Support Engineer org across EMEA/LATAM (follow-the-sun), delivering 2.5x productivity growth via AI-enabled process optimisation
+  - Implemented Refund Abuse Prevention framework, cutting abuse volume 48% with Legal, Fraud and AdEx teams
+- **Head of Client Services, EMEA** (Jan 2021 - Sep 2024) - **TikTok** (Dublin)
+  - Led 50+ specialists across 34 markets and 10 languages; owned CSAT, SLA, FRT, FTR, TTR, quality and escalations across internal and vendor delivery
+  - Launched Concierge Support (FRT -84%, TTR -55%) and hybrid Live Chat (CSAT +40%, escalations -28%); served 7 months as Interim Global Head of Client Services
+- **Regional Vendor Manager Lead, EMEA** (Dec 2020 - Dec 2022, concurrent) - **TikTok** (Dublin)
+  - Managed 4 BPO partners; Activation Program raised advertiser activation 30% and vendor-led revenue 20%
+- **Partnerships** (Apr 2019 - Dec 2020) - **Pinterest** (Dublin) - partner retention >85%, doubled partner engagement
+- **Partner & Project Manager / Senior Partner Manager** (2014 - 2019) - **Meta** (Dublin) - EMEA sports & SMB advertising; Interim Sales Leader
+- **Account Manager & Quality Lead (TTEC)** (2012 - 2013) - **Google** (Dublin)
+- **Business Development Manager** (2005 - 2010) - **Trabe Gestión S.L** (Lugo, Spain) - led 6-person team, 200% sales growth in 14 months
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Client services & customer success leadership, support/service delivery operations, escalation management, KPI/SLA governance, vendor & BPO management, operating-model design, process improvement, people leadership & coaching
+- **Secondary:** Salesforce & CRM/ticketing platforms, SQL, Tableau, data analytics, billing/payments operations, fraud/refund-abuse prevention, change management (ADKAR/Agile), programme management
+- **Domain:** B2B technology platforms, ad-tech / digital advertising operations, multilingual EMEA + LATAM service delivery
+- **Software:** Salesforce, CRM & ticketing platforms, knowledge management systems, Tableau, SQL
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Professional Diploma in Advanced Artificial Intelligence** (Distinction) - UCD Professional Academy - 2026
+- **Professional Diploma in Operations Strategy** - Hult International Business School - 2026
+- **Diploma in Change Management, Operations Management and Supervision** - UCD Professional Academy - 2023
+- **Google Search Advertising Advanced** / **Google Advertising Fundamentals** - 2013
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None on file.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None on file.
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- Inferred from LinkedIn About + achievements; no formal assessment on file. See 02-behavioral-profile.md. -->
+- **Results-driven** - frames work around quantified operational and commercial impact
+- **Cross-functional collaborator** - delivers through Product, Engineering, Legal, Fraud, Sales, Marketing and BPO partners
+- **Strengths:** Performance accountability, people development, data-informed decisions, responsible use of AI/automation
+- **Growth areas:** Not self-reported yet
+- **Thrives in:** Regional/global roles with real ownership, measurable outcomes, and cross-functional scope
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building and scaling teams; operating-model and workflow redesign that produces measurable KPI/SLA gains
+- Leading AI-enabled operational transformation and cross-functional / vendor turnaround
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- B2B SaaS / technology platforms: e.g. Clio and similar vertical SaaS
+- Ad-tech / digital platforms and BPO-supported service organisations
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- None hard. Prefers hybrid in Dublin; flexible on the rest and weighs trade-offs case by case.
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
