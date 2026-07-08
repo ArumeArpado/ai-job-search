@@ -129,12 +129,14 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Customer Success / Client Services leadership roles:**
+> Customer success and client services leader with 10+ years across B2B technology platforms and 5+ years leading regional support and success organisations. Led 50+ specialists across 34 markets and 10 languages, owning CSAT, retention, SLA and escalation performance. Delivered 2.5x productivity growth, +40% CSAT, 84% faster first response and partner retention above 85% through service redesign, live chat, workflow automation and KPI governance. Combines performance accountability, people development and responsible use of AI to turn customer and commercial challenges into scalable results.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Service Delivery / Support Operations leadership roles:**
+> Operations and service delivery leader with 10+ years in B2B technology, including 5+ years running multilingual regional support organisations covering internal and outsourced (BPO) delivery. Redesigned operating models and workflows to deliver 2.5x productivity growth, cut first response time by 84% and time to resolution by 55%, and reduced refund abuse by 48%. Experienced in complex escalations, vendor management, KPI governance and AI-enabled transformation across EMEA and LATAM.
+
+**For Operations / COO-track leadership roles:**
+> Commercial and operations leader with 10+ years across global B2B technology platforms, blending service delivery, vendor management and revenue growth. Built operating models, KPI governance and executive dashboards that accelerated decision-making by 20%, grew advertiser activation by 30% and vendor-led revenue by 20%, while scaling teams across 34 markets. MBA with recent Advanced AI and Operations Strategy diplomas; drives measurable, data-informed operational transformation.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 
