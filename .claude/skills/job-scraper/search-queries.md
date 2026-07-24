@@ -6,9 +6,16 @@
      Irish/UK job boards below instead. Custom Irish-portal integrations can be
      added later if desired. -->
 
+## Installed portal CLIs (primary for `/scrape`)
+
+`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`; Danish demos and any skill you add with `/add-portal` are included the same way. You do **not** need a matching `site:` line below for those CLIs to run.
+
+The `site:` query templates in this file are the **WebSearch fallback** — for portals without a CLI, company career pages, or when a CLI fails.
+
 ## Search Sites
 
 Primary (Ireland / remote-friendly):
+
 - **linkedin.com/jobs** - filter: Dublin, Ireland / Remote (EMEA)
 - **irishjobs.ie** - major Irish job board
 - **jobs.ie** - general Irish job board
@@ -23,7 +30,7 @@ Combine each query with location terms: "Dublin", "Ireland", or "Remote".
 
 Strongest and most desired direction.
 
-```
+```text
 site:linkedin.com/jobs "Director of Customer Success" Dublin OR Ireland OR Remote
 site:linkedin.com/jobs "VP Customer Success" Ireland
 site:linkedin.com/jobs "Head of Customer Success" Dublin
@@ -34,7 +41,7 @@ site:irishjobs.ie "Customer Success" director OR head Dublin
 
 Domain expertise: running multilingual support and service delivery orgs.
 
-```
+```text
 site:linkedin.com/jobs "Head of Support" OR "Director Service Delivery" Dublin OR Ireland
 site:linkedin.com/jobs "Support Operations" leader OR director Ireland
 site:linkedin.com/jobs "Head of Client Services" Dublin
@@ -45,7 +52,7 @@ site:irishjobs.ie "service delivery" manager OR director Dublin
 
 Adjacent roles the profile pivots into.
 
-```
+```text
 site:linkedin.com/jobs "Director of Operations" Dublin OR Ireland
 site:linkedin.com/jobs "Head of Operations" SaaS Ireland
 site:linkedin.com/jobs "Operations transformation" lead Dublin OR Remote
@@ -55,7 +62,7 @@ site:linkedin.com/jobs "Operations transformation" lead Dublin OR Remote
 
 Wider net.
 
-```
+```text
 site:linkedin.com/jobs "Vendor Management" OR "BPO" lead Dublin OR Ireland
 site:linkedin.com/jobs "Customer Operations" director Ireland OR Remote
 site:linkedin.com/jobs "Escalation" OR "Customer Experience" leader Dublin
@@ -64,6 +71,7 @@ site:linkedin.com/jobs "Escalation" OR "Customer Experience" leader Dublin
 ## Location Filter
 
 Verify each result is Dublin-commutable or genuinely remote. Acceptable areas:
+
 - Dublin city and Greater Dublin area (ideal - hybrid preferred)
 - Ireland-wide with Dublin hub or hybrid (acceptable)
 - Fully remote EMEA / international with occasional travel (acceptable)
@@ -77,4 +85,5 @@ Only include jobs posted within the last 14 days, or with an application deadlin
 ## Adapting Queries
 
 If the user specifies a focus area, select queries from the matching category and also generate 2-3 custom queries for that focus. For example:
-- "/scrape customer success" -> Priority 1 queries + custom focus-specific queries
+
+- `/scrape customer success` -> Priority 1 queries + custom focus-specific queries

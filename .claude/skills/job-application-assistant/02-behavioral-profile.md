@@ -1,3 +1,7 @@
+---
+framework_version: 1.0.0
+---
+
 # Behavioral Profile
 
 > **Note:** No formal assessment (PI / DISC / MBTI / StrengthsFinder) was provided. The traits below are *[Inferred from LinkedIn About + Top Skills + CV achievements - review before relying on this]*. Replace with a formal assessment if you have one.
