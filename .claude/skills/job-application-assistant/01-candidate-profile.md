@@ -23,9 +23,12 @@ Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's que
 generation. Omit any language you don't actually work in - an undeclared language is treated as
 a hard no, not a gap to smooth over. -->
 
-| Language | Level | Notes |
-|----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| Language   | Level        | Notes |
+| ---------- | ------------ | ----- |
+| Spanish    | Native       |       |
+| English    | Fluent       |       |
+| Portuguese | Professional |       |
+| French     | Basic        |       |
 
 ## Education
 
@@ -57,7 +60,7 @@ Dublin, Ireland — Customer Success & Support Operations
 - Reduced the suspension-appeal escalation rate by more than 21 percentage points (from 81% to below 60%) after introducing enhanced verification protocols.
 - Partnered with Deloitte and internal change-management teams on cross-regional transformation. Served for seven months as **Interim Global Head of Client Services**, aligning regional teams around common service standards, workflows and performance expectations.
 
-### Regional Vendor Manager Lead, EMEA - TikTok (Dec 2020 - Dec 2022)
+### Regional Vendor Manager Lead, SMB, EMEA - TikTok (Dec 2020 - Dec 2022)
 Dublin, Ireland — held concurrently with Head of Client Services
 - Managed performance across four BPO partners supporting EMEA service delivery, deploying sales and customer success programmes that improved service quality, advertiser activation and client satisfaction.
 - Introduced an Activation Program with KPI dashboards, standard operating procedures and weekly vendor reviews, increasing advertiser activation by 30%.

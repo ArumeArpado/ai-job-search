@@ -138,6 +138,12 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 **For Operations / COO-track leadership roles:**
 > Commercial and operations leader with 10+ years across global B2B technology platforms, blending service delivery, vendor management and revenue growth. Built operating models, KPI governance and executive dashboards that accelerated decision-making by 20%, grew advertiser activation by 30% and vendor-led revenue by 20%, while scaling teams across 34 markets. MBA with recent Advanced AI and Operations Strategy diplomas; drives measurable, data-informed operational transformation.
 
+**For Vendor Management / Sales Operations leadership roles:** *[Used for: openai_senior_vendor_manager_smb]*
+> Vendor management and sales operations leader with 10+ years across B2B technology platforms and 6+ years managing outsourced (BPO) sales delivery at scale. At TikTok, owned performance across four Tier-1 BPO partners delivering SMB advertising sales across EMEA — built governance cadence (WBRs, MBRs, QBRs), quality frameworks, and activation programmes that lifted advertiser activation 30% and vendor-led revenue 20%. Combined with 4 years as Head of Client Services leading 50+ specialists across 34 markets and 10 languages, owning CSAT, SLA, FRT, FTR, TTR, quality and escalation governance. Delivered 2.5x productivity growth via AI-enabled process optimisation (Advanced AI Diploma, Distinction 2026). Based in Dublin, Ireland.
+
+**For Quality Assurance / Content Review leadership roles:** *[Used for: preply_drafter-reviewer]*
+> Operations and Quality Assurance Leader with 10+ years in B2B technology platforms, specializing in content quality assurance, process optimization, and AI-enabled workflow improvements. Proven track record in leading multidisciplinary teams to ensure content accuracy, consistency, and compliance with quality standards. Expert in designing scalable review processes that reduced errors by 48% while accelerating review cycles by 55%. Combines strong analytical skills with linguistic sensitivity and cross-cultural experience from managing multilingual teams across 34 markets and 10 languages.
+
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 
 ### Core Competencies / Skills Section (Best Practice)
