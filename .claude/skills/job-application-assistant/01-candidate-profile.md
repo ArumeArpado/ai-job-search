@@ -26,7 +26,7 @@ a hard no, not a gap to smooth over. -->
 | Language   | Level        | Notes |
 | ---------- | ------------ | ----- |
 | Spanish    | Native       |       |
-| English    | Fluent       |       |
+| English    | Proficient   |       |
 | Portuguese | Professional |       |
 | French     | Basic        |       |
 
